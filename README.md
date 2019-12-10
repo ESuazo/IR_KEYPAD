@@ -1,5 +1,5 @@
 # IR_KEYPAD
-Infrared Keyboard using Microchip microcontrollers and Infrared sensors.
+Infrared Keyboard using Microchip micro-controllers and Infrared sensors.
 
 
 ### Introduction and purpose
