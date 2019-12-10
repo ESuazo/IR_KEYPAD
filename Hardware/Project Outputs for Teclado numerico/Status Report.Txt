@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Teclado numerico.PrjPcb]
+   Generated File[Teclado numerico.GTL]
+   Generated File[Teclado numerico.GBL]
+   Generated File[Teclado numerico.GTO]
+   Generated File[Teclado numerico.GBO]
+   Generated File[Teclado numerico.GM1]
+   Generated File[Teclado numerico.GD1]
+   Generated File[Teclado numerico.GG1]
+   Generated File[Teclado numerico.RUL]
+   Generated File[Teclado numerico.EXTREP]
+   Generated File[Teclado numerico.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 12:54:02 PM On 12/9/2019

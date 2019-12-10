@@ -1,0 +1,14 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~94|Field=Description~String~Description~73|Field=Designator~String~Designator~73|Field=Footprint~String~Footprint~73|Field=LibRef~String~LibRef~73|Field=Quantity~Integer~Quantity~73|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~teclado numerico.PrjPcb|ReportField=ProjectFullPath~C:\Users\Elo 17\Desktop\Teclado numerico\teclado numerico.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=TotalQuantity~81|ReportField=ReportTime~10:41:38 AM|ReportField=ReportDate~2/13/2017|ReportField=ReportDateTime~2/13/2017 10:41:38 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Elo 17\Desktop\Teclado numerico\PCB1.PcbDoc
+1|100nF|Capacitor|C2, C3, C4, C5|C-0603|Capacitor 1|4
+2|100uF|Electrolytic Capacitor|C1|C-0603|Electrolytic Capacitor|1
+3|220nF|Capacitor|C6|C-0603|Capacitor 1|1
+4|Header 5|Header, 5-Pin|P1, P2|HDR1X5|Header 5|2
+5|PIC18F46K22 - TQFP|Flash Microcontroller with 10-Bit A/D and nanoWatt Technology, 32K Flash, 44-Pin QFN, Extended Temperature Range|U1|TQFP-44_JV|PIC18F46K22 - TQFP|1
+6|PIC18F4550-I/PT|High Performance, Enhanced Flash, USB Microcontroller with nanoWatt Technology, 32K Flash, 44-Pin TQFP, Industrial Temperature Range|U2|TQFP-44_JV|PIC18F4550-I/PT|1
+7|QRE1113GR|QRE1113GR|IRSENSOR_1_QRE1, IRSENSOR_1_QRE2, IRSENSOR_1_QRE3, IRSENSOR_1_QRE4, IRSENSOR_1_QRE5, IRSENSOR_2_QRE1, IRSENSOR_2_QRE2, IRSENSOR_2_QRE3, IRSENSOR_2_QRE4, IRSENSOR_2_QRE5, IRSENSOR_3_QRE1, IRSENSOR_3_QRE2, IRSENSOR_3_QRE3, IRSENSOR_3_QRE4, IRSENSOR_3_QRE5, IRSENSOR_4_QRE1, IRSENSOR_4_QRE2, IRSENSOR_4_QRE3, IRSENSOR_4_QRE4, IRSENSOR_4_QRE5|QRE1113GR|QRE1113GR|20
+8|RN-42 HID||BL1|Bluetooth module for PCB mounting|Bluetooth module for PCB mounting|1
+9|Resistor 1|Resistor|R1_QRE1, R1_QRE3, R1_QRE4, R1_QRE5, R2_QRE1, R2_QRE2, R2_QRE3, R2_QRE4, R2_QRE5, R3_QRE1, R3_QRE2, R3_QRE3, R3_QRE4, R3_QRE5, R4_QRE1, R4_QRE2, R4_QRE3, R4_QRE4, R4_QRE5, R5_QRE1, R5_QRE2, R5_QRE3, R5_QRE4, R5_QRE5, R6_QRE1, R6_QRE2, R6_QRE3, R6_QRE4, R6_QRE5, R7_QRE1, R7_QRE2, R7_QRE3, R7_QRE4, R7_QRE5, R8_QRE1, R8_QRE2, R8_QRE3, R8_QRE4, R8_QRE5, R9, R10, R11, R12|R-0603|Resistor 1|43
+10|Resistor 1|Resistor|R1_QRE2|R-0603-3D|Resistor 1|1
+11|Transistor NPN|NPN General Purpose Amplifier|Q1, Q2, Q3, Q4|SOT95P237X111-3M-JV|Transistor NPN|4
+12|USB-CON|USB 1.1, Right Angle, SMT, A Type, Receptacle, 4 Position, White|J1|USB-A|USB-CON|1
+13|XTAL|Crystal Oscillator|Y1|ECX64A-jv|XTAL|1
