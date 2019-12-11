@@ -26,13 +26,15 @@ That said, this keyboard doesn't doesn't feature any mechanical component, inste
 * RN-42 HID bluetooth module.
 * PIC18F46K22 and PIC18F4550 micro-controllers.
 
-### Other
-
-* Pickit 3 is required to deploy software
-* Some previous configuration might be required for the RN42 bluetooth device.
-
 ### What can be improved
 
 * Seal the whole product to ensure an actual complete separation from the environment.
 * Introduce an algorithm that can determine the "average ADC value when not pressing the buttons" better. The current one only gets the average value when it's turned on, completely disregarding the ΔInfrared-light throught the day and night.
 * Haptic feedback, e.g., vibration.
+
+### Other
+
+* Pickit 3 is required to deploy software
+* Some previous configuration might be required for the RN42 bluetooth device.
+* PCB designed on Altium designer.
+* Programmed on MikroC PRO for PIC.
